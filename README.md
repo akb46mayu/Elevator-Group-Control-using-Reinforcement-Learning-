@@ -1,4 +1,4 @@
-# Elevator-Group-Control-(Reinforcement-Learning) (2014 Fall)
+# Elevator Group Control (Reinforcement Learning) (2014 Fall)
 
 
 
